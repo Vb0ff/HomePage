@@ -60,7 +60,7 @@ const CONFIG = {
 	firstlistsContainer: [
 		{
 			icon: 'music',
-			id: '1',
+			id: '2',
 			links: [
 				{
 					name: 'Inspirational',
@@ -82,7 +82,7 @@ const CONFIG = {
 		},
 		{
 			icon: 'coffee',
-			id: '2',
+			id: '3',
 			links: [
 				{
 					name: 'Linkedin',
