@@ -225,6 +225,5 @@ const CONFIG = {
 	//				link: 'https://github.com/migueravila',
 	//			},
 	//		],
-		},
-	],
+
 };
