@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'YouTube',
+					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lofi Hip Hop',
+					link: 'https://www.youtube.com/results?search_query=lofi+hip+hop+radio+24+7',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anilibria',
+					link: 'https://anilibria.top/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Google',
+					link: 'https://google.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Yandex',
+					link: 'https://ya.ru',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Google DOC',
+					link: 'https://docs.google.com/document/u/0/?pli=1',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Google Translate',
+					link: 'https://translate.google.com',
 				},
 			],
 		},
@@ -187,20 +187,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Chat GPT',
+					link: 'https://chatgpt.com/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Grok',
+					link: 'https://grok.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'DeepSeek',
+					link: 'https://chat.deepseek.com/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Pyypl',
+					link: 'https://pyyplbot.com/',
 				},
 			],
 		},
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'CleanVoice',
+					link: 'https://control.cleanvoice.ru/controlpanel/server/status/43891',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'UFO.Hosting',
+					link: 'https://bill.ufo.hosting/billmgr?startform=vds',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'Stepik',
+					link: 'https://stepik.org/learn',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'MerionAcademy',
+					link: 'https://lms.merionet.ru/my/',
 				},
 			],
 		},
