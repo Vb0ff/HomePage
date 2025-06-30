@@ -217,12 +217,12 @@ const CONFIG = {
 					link: 'https://bill.ufo.hosting/billmgr?startform=vds',
 				},
 				{
-					name: 'Stepik',
-					link: 'https://stepik.org/learn',
+					name: 'dnsleaktest',
+					link: 'https://dnsleaktest.com/',
 				},
 				{
-					name: 'MerionAcademy',
-					link: 'https://lms.merionet.ru/my/',
+					name: 'checkhost',
+					link: 'https://check-host.net/',
 				},
 			],
 		},
