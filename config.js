@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://chat.deepseek.com/',
 				},
 				{
-					name: 'Pyypl',
-					link: 'https://pyyplbot.com/',
+					name: 'Gemini',
+					link: 'https://gemini.google.com/app',
 				},
 			],
 		},
@@ -209,20 +209,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'CleanVoice',
-					link: 'https://control.cleanvoice.ru/controlpanel/server/status/43891',
+					name: 'VirusTotal',
+					link: 'https://www.virustotal.com/gui/home/upload',
 				},
 				{
-					name: 'UFO.Hosting',
-					link: 'https://bill.ufo.hosting/billmgr?startform=vds',
+					name: 'checkhost',
+					link: 'https://check-host.net/',
 				},
 				{
 					name: 'dnsleaktest',
 					link: 'https://dnsleaktest.com/',
 				},
 				{
-					name: 'checkhost',
-					link: 'https://check-host.net/',
+					name: 'Panel',
+					link: 'https://127.0.0.1:2222/paneladmin',
 				},
 			],
 		},
