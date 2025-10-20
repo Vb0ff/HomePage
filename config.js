@@ -143,12 +143,12 @@ const CONFIG = {
 					link: 'https://www.youtube.com/',
 				},
 				{
-					name: 'Lofi Hip Hop',
-					link: 'https://www.youtube.com/results?search_query=lofi+hip+hop+radio+24+7',
+					name: 'Twitch',
+					link: 'https://twitch.tv',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.tv/',
+					name: 'Lofi Hip Hop',
+					link: 'https://www.youtube.com/results?search_query=lofi+hip+hop+radio+24+7',
 				},
 				{
 					name: 'Anilibria',
